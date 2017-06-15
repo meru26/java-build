@@ -1,6 +1,6 @@
 ---
 shared:
-  image: buildpack-deps
+  image: java 
 
 jobs:
   main:
